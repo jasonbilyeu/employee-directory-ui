@@ -34,34 +34,4 @@ node {
         currentBuild.result = "FAILURE"
         throw err
     }
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
 }

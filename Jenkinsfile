@@ -9,7 +9,7 @@ node {
        }
 
        stage('Install'){
-         sh 'node -v'
+         sh 'node -vdas;ljfa'
          sh 'npm prune'
          sh 'npm install'
          sh 'npm run test'
